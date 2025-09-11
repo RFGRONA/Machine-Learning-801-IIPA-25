@@ -10,16 +10,16 @@
 
 ## Índice
 
-1.  Introducción
-2.  Metodología
-3.  Análisis de Características
-      * 3.1. Análisis de Correlación
-      * 3.2. Utilidad de las Características para el Modelo
-4.  Evaluación del Modelo
-      * 4.1. Precisión y Matriz de Confusión
-      * 4.2. Diagnóstico del Modelo: Curva de Aprendizaje
-5.  Conclusiones
-6.  Repositorio de Código
+1.  [Introducción](#1-introducción)
+2.  [Metodología](#2-metodología)
+3.  [Análisis de Características](#3-análisis-de-características)
+    * [3.1. Análisis de Correlación](#31-análisis-de-correlación)
+    * [3.2. Utilidad de las Características para el Modelo](#32-utilidad-de-las-características-para-el-modelo)
+4.  [Evaluación del Modelo](#4-evaluación-del-modelo)
+    * [4.1. Precisión y Matriz de Confusión](#41-precisión-y-matriz-de-confusión)
+    * [4.2. Diagnóstico del Modelo: Curva de Aprendizaje](#42-diagnóstico-del-modelo-curva-de-aprendizaje)
+5.  [Conclusiones](#5-conclusiones)
+6.  [Repositorio de Código](#6-repositorio-de-código)
 
 -----
 
