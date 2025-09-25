@@ -5,6 +5,10 @@
 
 ---
 
+**Enlace al repositorio:** [GitHub - Clasificador Arbol de Decisión -SPAM-HAM](https://github.com/RFGRONA/Machine-Learning-801-IIPA-25/tree/main/3.%20%C3%81rbol%20de%20decisi%C3%B3n)
+
+---
+
 ## Descripción del Procedimiento
 
 El proceso se desarrolló siguiendo un flujo de trabajo estructurado en varias fases, desde la preparación de los datos hasta la visualización de los resultados, utilizando la librería `scikit-learn` de Python.
